@@ -6,6 +6,7 @@ OVERVIEW:
 This independent verification tool allows you to cryptographically 
 validate hybrid signatures (ECDSA secp256r1 + Post-Quantum Dilithium Level 3) 
 100% offline without connecting to any external servers or services.
+Ensure you download index.html and main.json into the same directory.
 
 INSTRUCTIONS:
 1. Double-click "index.html" to open it in any standard browser 
@@ -20,3 +21,5 @@ AUDIT LOG OUTPUT:
 - Step 2 checks Post-Quantum Dilithium (Level 3) signature validity.
 - Both cryptographic primitives must pass for a "TRUE" result.
 ============================================================
+
+If index.html does not work because of your browser's security, then follow the instructions near the last part of the pdf.
